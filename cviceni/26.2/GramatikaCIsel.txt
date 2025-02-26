@@ -1,0 +1,13 @@
+
+Number::= SignedInt | SignedDecimal
+
+SignedInt::="+" Int| "-" Int
+Int::= "0" | NonZero | NonZero Digits
+
+SignedDecimal::= "+" DecimalNumber|"-" DecimalNumber
+DecimalNumber::= Int DecimalPart | "0"  DecimalPart
+DecimalPart::="." Digits
+
+Digits::= Digit | Digits Digit
+NonZero::= "1"|"2"|"3"|"4"|"5"|"6"|"7"|"8"|"9"
+Digit::= "0"|NonZero
