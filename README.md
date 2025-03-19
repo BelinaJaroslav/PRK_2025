@@ -10,6 +10,7 @@
 ### 2. Čísla
 - **Celá čísla**: Celá čísla (např. `42`, `-7`, `0`).
 - **Desetinná čísla**: Desetinná čísla (např. `3.14`, `-0.5`).
+- **Boolean**: True/False
 
 ### 3. Operátory
 #### Binární operátory
