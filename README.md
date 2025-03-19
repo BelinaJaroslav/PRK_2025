@@ -25,7 +25,6 @@
 - `()`: Závorky pro určení priority.
 - `LAUNCH` - `END_LAUNCH`: Blok pro provedení mise.
 - `IF` - `END_IF`: Podmíněný blok.
-- `LOOP` - `END_LOOP`: Cyklus pro opakované operace.
 - `SEQUENCE` - `END_SEQUENCE`: Blok pro definici sekvence kroků.
 -- `STEP` - `END_STEP`: Definuje konkrétní krok v sekvenci.
 
