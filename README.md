@@ -10,7 +10,7 @@
 ### 2. Čísla
 - **Celá čísla**: Celá čísla (např. `42`, `-7`, `0`).
 - **Desetinná čísla**: Desetinná čísla (např. `3.14`, `-0.5`).
-- **Boolean**: True/False
+- **Boolean**: True / False == 1 / 0
 
 ### 3. Operátory
 #### Binární operátory
@@ -33,7 +33,7 @@
 - `IGNITE`: Spustit proces (např. motory).
 - `DEPLOY`: Provedení akce (např. nasazení padáků).
 - `LOG`: Výpis hodnoty do konzole.
-- `BAIL`: Předčasné ukončení aktuálního cyklu (`LOOP`).
+- `BAIL`: Předčasné ukončení aktuálního cyklu.
 - `ABORT`: Okamžité ukončení celého programu.
 
 ### 6. Řízení mise
